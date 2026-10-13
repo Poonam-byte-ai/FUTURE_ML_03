@@ -1,0 +1,12 @@
+**Job Title: Junior Machine Learning Engineer**
+
+**Required Skills:** Python, machine learning, data analysis, pandas, NumPy, scikit-learn, SQL, data preprocessing, model evaluation.
+
+**Responsibilities:**
+- Prepare and clean datasets.
+- Develop and evaluate machine learning models.
+- Analyze data and interpret results.
+- Work with Python data science libraries.
+- Document experiments and findings.
+
+**Qualifications:** Bachelor's degree in Computer Science, Artificial Intelligence, Machine Learning, or a related field. Strong problem-solving and analytical skills.

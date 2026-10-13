@@ -1,0 +1,14 @@
+RESUME / CANDIDATE SCREENING REPORT
+===================================
+
+Method: TF-IDF and cosine similarity
+
+ Rank     Candidate  Relevance_Score_Percent
+    1  Candidate_01                45.606661
+    2  Candidate_05                22.540048
+    3 Poonam_Resume                16.641546
+    4  Candidate_03                13.247394
+    5  Candidate_04                 1.899854
+    6  Candidate_02                 0.000000
+
+Note: Similarity scores measure text similarity only. They are not probabilities of hiring success and should not be used as the sole basis for hiring decisions.
